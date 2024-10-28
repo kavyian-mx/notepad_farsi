@@ -1,0 +1,1 @@
+# nodepad_farsi
